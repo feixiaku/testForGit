@@ -10,6 +10,7 @@ using namespace std;
 int main(int argc, char* argv[])
 {
     cout << "Hello git" << endl;
+    cout << "git merge" << endl;
     return 0;
 }
 
